@@ -121,7 +121,8 @@ app.*.symbols
 .idea/
 .metadata
 android/
-windows
-web
+windows/
+web/
 analysis_options.yaml
 dungeon_app.iml
+test/
